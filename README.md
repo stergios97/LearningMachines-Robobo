@@ -26,7 +26,7 @@ Individual component: each member must participate in presenting and, most impor
 
 This rule is for all tasks but task 0
 
-+ Two extra slides at the end: 1) the contribution sheet describing the contribution of each team member and 2) a buddy-group summary describing what you learned from them.
+## + Two extra slides at the end: 1) the contribution sheet describing the contribution of each team member and 2) a buddy-group summary describing what you learned from them.
 
  
 
@@ -34,7 +34,7 @@ This rule is for all tasks but task 0
 
  
 
-Task 0 - System exploration
+## Task 0 - System exploration
 
  
 
@@ -54,7 +54,7 @@ Decide which control architecture and learning algorithm you will use.
 Install all other libraries/resources necessary to get started next week.
  
 
-Task 1 - Obstacle avoidance
+## Task 1 - Obstacle avoidance
 
  
 
@@ -63,7 +63,7 @@ You can use the environment models available in scenes/arena_obstacles.tttLinks 
 Define the specific task/challenge, e.g., the robot should displace in the environment as further and as fast as possible with minimal collision.
  
 
- Task 2 - Foraging: find and approach an object
+ ## Task 2 - Foraging: find and approach an object
 
  
 
@@ -78,7 +78,7 @@ The verification of the results will be done by your supervisor during your pres
 The supervisor will register how many packages were collected before the timer goes off.
  
 
-Task 3 - Foraging: pushing an object to a location
+## Task 3 - Foraging: pushing an object to a location
 
  
 
