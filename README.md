@@ -6,6 +6,8 @@ Rules for all tasks:
 
 ## Submit your slides PDF, links to videos of the demos in simulation and hardware, and a link to your code.
 
+## Link to the paper report in OverLeaf: 
+
 The presentation should contain (in this order):
 
 + Simulation demo
