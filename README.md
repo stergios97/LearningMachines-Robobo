@@ -1,4 +1,4 @@
-# Learning Machines Robobo
+# Group 14 - Learning Machines Robobo
 
 This is the GitHub repository for the Learning Machines course.
 
